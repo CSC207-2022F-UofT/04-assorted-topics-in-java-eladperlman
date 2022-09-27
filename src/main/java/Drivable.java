@@ -1,4 +1,4 @@
-interface Drivable {
+public interface Drivable {
     /**
      * Increase the maximum speed of this Vehicle.
      **/
